@@ -14,6 +14,7 @@ Core responsibilities include:
 
 ## Leadership
 
+* Helene Lau ([helenelau](https://github.com/helenelau))
 * Jason McIntosh ([jasonmcintosh](https://github.com/jasonmcintosh/))
 * Brian Newton ([bnewtonius](https://github.com/bnewtonius/))
 * Shaun Phillips ([shaun-phillips](https://github.com/shaun-phillips))
