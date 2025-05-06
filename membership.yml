@@ -60,7 +60,7 @@ organization:
       - PerGon
       - sanopsmx
       - scottfrederick
-      - siddhu-opsmx
+      - sergio-quintero
       - srekapalli
       - stuart-pollock
       - xavileon
@@ -68,6 +68,8 @@ organization:
       - danielas12
       - edgarulg
       - oscarmichelh
+      - xibz
+      - christosarvanitis
     oss-approvers:
       description: Approvers Role
       members:
@@ -124,6 +126,7 @@ organization:
       - robfletcher
       - robzienert
       - sbwsg
+      - siddhu-opsmx
       - srekapalli
       - stewchen
       - ttomsu
