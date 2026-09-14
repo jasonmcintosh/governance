@@ -68,7 +68,6 @@ organization:
       - danielas12
       - edgarulg
       - oscarmichelh
-      - xibz
       - christosarvanitis
     oss-approvers:
       description: Approvers Role
@@ -83,8 +82,10 @@ organization:
       - caseyhebebrand
       - cfieber
       - christopherthielen
+      - christosarvanitis
       - clareliguori
       - claymccoy
+      - cristhian-castaneda
       - csanden
       - danielpeach
       - dbyron-sf
@@ -129,8 +130,10 @@ organization:
       - siddhu-opsmx
       - srekapalli
       - stewchen
+      - stevenlandrydd
       - ttomsu
       - wjoel
+      - xibz
       - vigneshm
       - zachsmith1
     oss-kayenta-approvers:
@@ -160,3 +163,4 @@ organization:
       members:
       - ajordens
       - plumpy
+      - jasonmcintosh
